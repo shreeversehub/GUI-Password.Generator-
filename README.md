@@ -43,10 +43,11 @@ lalitha#7
 ## 📂 Project Structure
 
 ```
-GUI-password.generator/
-│
-├── password_generator.py
-└── README.md
+GUI-Password.Generator/
+│── GUI_Output.png
+│── README.md
+│── Source code
+
 ```
 
 ## ▶️ Run the Project
